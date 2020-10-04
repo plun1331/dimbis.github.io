@@ -1,6 +1,6 @@
 # My personal website
-This is a webpage about myself that I stole from @DimBis.
+This is a webpage about myself.
 
-I did not design this template, it's an open-source template that i liked so i've edited/modified it.
+I did not design this template, it's an open-source template that i liked so i've edited/modified it with @plun1331.
 ## Design by
 [HTML5UP](https://html5up.net/)
